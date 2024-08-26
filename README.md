@@ -6,7 +6,7 @@ Integrate depin chains on Bitcoin environments through Core DAO - modular connec
 
 Core DAO DPL smart-contract deployed on testnet: 0xe2A4F6Cae191e6e599488E1e2C95861312Df9826
 <br/>
-ICP oracle hash: https://dashboard.internetcomputer.org/canister/saeiq-taaaa-aaaao-a3ctq-cai - created by Omnia protocol: https://github.dev/omnia-network/ic_akash/tree/main/frontend
+ICP oracle hash: https://dashboard.internetcomputer.org/canister/bv7br-xyaaa-aaaam-ac4uq-cai
 <br/>
 
 Accelar oracle based on https://github.com/dfinity/examples/tree/master/rust/threshold-ecdsa
