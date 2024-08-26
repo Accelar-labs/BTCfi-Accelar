@@ -1,6 +1,6 @@
 # core-dao-depin
 <br/>
-Integrate depin chains on Bitcoin environments through Core DAO - modular connections by oracles. Currently connecting with https://akash.network/docs/
+Integrate depin chains on Bitcoin environments through Core DAO - modular connections by oracles - allows for decentralized cloud computation and AI on BTC. Currently connecting with https://akash.network/docs/
 <br/>
 <br/>
 
