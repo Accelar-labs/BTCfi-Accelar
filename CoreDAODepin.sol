@@ -15,6 +15,7 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
  * @title CoreDaoDepin
  * @dev A modular infrastructure controlled by a DAO to manage DeFi capabilities
  */
+// testing commit
 contract CoreDaoDepin is ERC721Enumerable, Ownable, ReentrancyGuard {
     uint256 private _tokenIds;
     uint256 private _itemsSolds;
